@@ -2,7 +2,7 @@ PATH
   remote: ..
   specs:
     time_difference (0.7.0)
-      activesupport (~> 5.1)
+      activesupport
 
 GEM
   remote: https://rubygems.org/
@@ -44,7 +44,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport (~> 5.2)
+  activesupport (~> 5.2.0)
   appraisal
   rake
   rspec (~> 3.7.0)
